@@ -1,37 +1,38 @@
-# Hi, I'm Florian 👋
+### `~ $ whoami`
 
-### Aspiring Software Developer | Python & Machine Learning
+```text
+iloulou24 — open-source maintainer
+```
 
-I'm a French high school student passionate about programming, computer science, and building useful software projects. I'm continuously developing my skills through hands-on projects and independent learning.
+### `~ $ ls projects --sort=stars`
 
-### About Me
+<table>
+<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/Iloulou24/chercheur-mutlimedia">chercheur-mutlimedia</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/Iloulou24/Machine-learning-programs">Machine-learning-programs</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/Iloulou24/Iloulou24">Iloulou24</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/Iloulou24/Gestionnaire-de-mot-de-passe-">Gestionnaire-de-mot-de-passe-</a></td><td align="left">—</td><td align="right">0</td></tr>
+</tbody>
+</table>
 
-- Learning Python through practical projects
-- Developing a multi-platform multimedia search engine
-- Exploring machine learning with K-Nearest Neighbors (KNN) and Perceptrons
-- Integrating APIs to retrieve and combine data from different platforms
-- Planning to pursue higher education in Computer Science
+### `~ $ cat stack.txt`
 
-### Tech Stack
+```text
+python      ████████████████████ 100%
+```
 
-**Languages:** Python
+### `~ $ stats`
 
-**Tools:** Git, GitHub, VS Code
+```text
+repositories   4
+stars          0
+followers      2
+contributions  24 (last 12 months)
+```
 
-**APIs:** YouTube Data API, Deezer API
+### `~ $ contact`
 
-### Current Focus
+<a href="https://github.com/iloulou24">GitHub</a>
 
-- Improving my Python programming skills and code structure
-- Learning to build applications that integrate multiple APIs
-- Exploring machine learning concepts through personal projects
-- Building a strong foundation for my future in software development
-
-### Featured Projects
-
-- **Multimedia Search Engine** — A Python project that aggregates music and video search results from multiple platforms.
-- **Machine Learning Experiments** — Implementations and experiments with K-Nearest Neighbors and Perceptrons.
-
----
-
-*Learning by building, improving through practice.*
+<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
