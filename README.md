@@ -1,7 +1,7 @@
 ### `~ $ whoami`
 
 ```text
-iloulou24 — open-source maintainer
+iloulou24 — student
 ```
 
 ### `~ $ ls projects --sort=stars`
